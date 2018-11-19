@@ -36,7 +36,7 @@ Following the completion of the first phase of our Intergalactic Gaming SR elect
 
 10% of TRX to be retained by IG; IGG will strictly be for operational expenses of the nodes. All surplus accumulated in a side pool for distribution to be decided by community voting. Use cases required for voting could include: community distribution; system upgrades, charity donations, community competitions.
 
-IG to distribute IGG at a rate of 100% for every TRX rewarded; IGG percentage will be reviewed on the first day of each month: 100 TRX received by a voter will result in a further 100 IGG distributed.
+IG will distribute IGG, at a rate of 100%, for every TRX rewarded, 100 TRX received by a voter will result in a further 100 IGG distributed. The percentage of IGG distributed will be reviewed on the first day of each week depending on the current value:
 
 Please note: We anticipate passing through the first two phases quite quickly. When we reach the final phase, we may adjust the reward structure depending on the state of the landscape. We will notify all via our usual channels should the reward structure change.
 
