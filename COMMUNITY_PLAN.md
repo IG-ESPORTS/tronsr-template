@@ -8,13 +8,13 @@ Phase Three – IG the Esports Representation on the Tron Network
 
 ## Phase 1: SR Election
 
-Tron offers 115,200 TRX to all candidates, delivered proportionately, to the total number of votes during SR cycles every twenty-four hours. During the candidacy phase:
+Tron offers 115,200 TRX to all candidates, delivered proportionately, to the total number of votes during SR cycles every six hours. During the candidacy phase:
 
 IG intends to distribute 100% of TRX rewards to voters; the amount of TRX voters receive will depend on the percentage of individual’s daily vote contributions.
 
 Moreover, IG will distribute IGG equivalent to the TRX reward total to a factor of 300% to all voters, all early voters will be rewarded for their support.
 
-For example, if you receive 10000 TRX you would also receive 15000 IGG.
+For example, if you receive 10000 TRX you would also receive 30000 IGG.
 
 ## Phase 2: IGGenesis: The Esports Revolution
 
