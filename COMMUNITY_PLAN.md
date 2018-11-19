@@ -22,7 +22,7 @@ Success during the election process will initiate the following reward structure
 
 85% of TRX will be distributed to voters proportioned by individual percentage of contributing votes.
 
-IG will distribute IGG, at a rate of 150%, for every TRX rewarded. The percentage distributed will be reviewed on the first day of each week: 100 TRX received by a voter will result in a further 150 IGG distributed.
+IG will distribute IGG, at a rate of 150%, for every TRX rewarded, 100 TRX received by a voter will result in a further 150 IGG distributed. The percentage of IGG distributed will be reviewed on the first day of each week:
 
 15% of TRX will be retained to establish the Intergalactic Foundation; IG will be a founding member.
 
@@ -32,9 +32,9 @@ Following the completion of the first phase of our Intergalactic Gaming SR elect
 
 75% of TRX to be distributed to voters; TRX will be directly proportionate to the individual percentage of contributing votes.
 
-15% of TRX to be retained by IG; IG will be utilised to fund the Intergalactic Foundation.
+15% of TRX to be retained by IG; IGG will be utilised to fund the Intergalactic Foundation.
 
-10% of TRX to be retained by IG; IG will strictly be for operational expenses of the nodes. All surplus accumulated in a side pool for distribution to be decided by community voting. Use cases required for voting could include: community distribution; system upgrades, charity donations, community competitions.
+10% of TRX to be retained by IG; IGG will strictly be for operational expenses of the nodes. All surplus accumulated in a side pool for distribution to be decided by community voting. Use cases required for voting could include: community distribution; system upgrades, charity donations, community competitions.
 
 IG to distribute IGG at a rate of 100% for every TRX rewarded; IGG percentage will be reviewed on the first day of each month: 100 TRX received by a voter will result in a further 100 IGG distributed.
 
