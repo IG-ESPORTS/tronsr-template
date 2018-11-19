@@ -26,4 +26,6 @@ Lavantha Wickramaratna: Network Infrastructure Advisor
 
 [LinkedIn](https://www.linkedin.com/in/lavantha-wickramaratna-489395150)
 
+Jason Neely: TRON / SR Advisor
+
 **Many more individuals that will be supporting the execution of our vision as a Super Representative on the Tron Network.**
