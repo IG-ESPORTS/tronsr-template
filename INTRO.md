@@ -22,6 +22,6 @@ Intergalactic Gaming grew from a passion for gaming, spending hours on end, but 
 
 [Website](https://www.iggalaxy.com)
 
-[Twitter](https://twitter.com/official_igg)
+[Twitter](https://twitter.com/IG_Galaxy)
 
 [Telegram](https://t.me/IGG_Official)
