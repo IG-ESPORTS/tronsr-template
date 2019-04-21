@@ -40,6 +40,18 @@ IG will distribute IGG, at a rate of 100%, for every TRX rewarded, 100 TRX recei
 
 Please note: We anticipate passing through the first two phases quite quickly. When we reach the final phase, we may adjust the reward structure depending on the state of the landscape. We will notify all via our usual channels should the reward structure change.
 
+# Phase 4: Re-Election
+IG’s aim as an elected SR is to support the growth of TRON, particularly as we look to formally establish our competitive gaming ecosystem. Tokenising competitive gaming allows us to solidify and nurture its presence on the TRON blockchain, embracing the natural synergy between IG and TRON.
+
+Maintaining IG’s core values of inclusivity and complete transparency, we must clearly state that IG does not retain any financial profits from our elected Super Representative status.
+
+Rewards structure upon re-election:
+- 90% TRX rewarded proportionate to the percentage of contributing votes
+- 10% TRX used to buy IGG back from the circulating supply - *IGG bought back will be burned at the end of each month*
+- IGG distributed at a 200% rate for every TRX rewarded
+
+#IG4SR
+
 # SR Plan
 
 With over 160 SR candidates on the TRON Network, IG will need to be ranked within the top 27 candidates to become an Elected SR. This is done through TRON’s democratic consensus mechanism; Delegated Proof of Stake (DPoS). At the time of writing, a minimum of 138 million TRX votes, which equate to TRON Power, would be needed to successfully be elected as the 27 Super Representative. SR’s are essentially Guardians of the TRON blockchain, striving to steer the TRON Network towards innovative excellence. They provide technical governance, maintain system performance, whilst representing their community for key decisions made on the Network. TRON are yet to have an esports representative as an elected SR, which appears to be a fundamental limitation in their quest for a decentralised entertainment platform.
